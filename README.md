@@ -28,8 +28,8 @@
     Deployment: Deploy apps to the Play Store and App Store.
 - 📫 How to reach me,
       I’d love to collaborate, discuss Flutter, or chat about tech!
-      [LinkedIn] https://www.linkedin.com/in/abdel-rahman-mostafa-saad-21947a1a4/
-      [Twitter] https://x.com/Abdelrahman1095
+  - [LinkedIn] https://www.linkedin.com/in/abdel-rahman-mostafa-saad-21947a1a4/
+  - [Twitter] https://x.com/Abdelrahman1095
 
 <!---
 abdelrhman-mostafa95/abdelrhman-mostafa95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
