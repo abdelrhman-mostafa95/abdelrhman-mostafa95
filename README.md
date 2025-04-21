@@ -5,23 +5,6 @@
   <em>Building elegant and responsive mobile apps with love using Flutter 💙</em>
 </p>
 
-<h1 align="center">
-  <span style="color: #00ffe1; animation: glow 1.5s ease-in-out infinite alternate;">
-    Abdelrahman Mostafa
-  </span>
-</h1>
-
-<style>
-@keyframes glow {
-  from {
-    text-shadow: 0 0 5px #00ffe1, 0 0 10px #00ffe1, 0 0 20px #00ffe1;
-  }
-  to {
-    text-shadow: 0 0 20px #00ffe1, 0 0 30px #00ffe1, 0 0 40px #00ffe1;
-  }
-}
-</style>
-
 ---
 
 ### 👨‍💻 About Me
