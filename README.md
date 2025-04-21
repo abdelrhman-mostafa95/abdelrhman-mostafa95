@@ -1,47 +1,66 @@
-<h1 align="center">👋 Hi, I'm Abdelrahman Mostafa</h1>
+<h1 align="center">Hi there, I'm Abdelrahman Mostafa 👋</h1>
 
 <p align="center">
-  💻 Flutter Developer | 🚀 Ex-Mechanical Engineer | 🧠 Lifelong Learner
+  <em>Flutter Developer | Former Mechanical Engineer 🔧➡️💻</em><br>
+  <em>Building elegant and responsive mobile apps with love using Flutter 💙</em>
 </p>
 
----
+<h1 align="center">
+  <span style="color: #00ffe1; animation: glow 1.5s ease-in-out infinite alternate;">
+    Abdelrahman Mostafa
+  </span>
+</h1>
 
-### 📌 About Me
-
-After spending several years working in mechanical engineering, I realized my passion for technology and mobile development.  
-I decided to pivot into **Flutter development**, and since then, I’ve been building responsive, user-friendly apps.
-
-I love problem-solving and learning new technologies, and I believe my background in engineering helps me approach challenges with a unique perspective.
-
----
-
-### 🛠 Skills & Tools
-
-- **Languages:** Dart, Java, Kotlin  
-- **Frameworks:** Flutter  
-- **Backend:** Firebase  
-- **State Management:** Provider, Riverpod, BLoC  
-- **API Integration:** REST, GraphQL  
-- **Version Control:** Git, GitHub  
-- **Others:** UI/UX Design, Mobile App Optimization, Prototyping, Agile Mindset
+<style>
+@keyframes glow {
+  from {
+    text-shadow: 0 0 5px #00ffe1, 0 0 10px #00ffe1, 0 0 20px #00ffe1;
+  }
+  to {
+    text-shadow: 0 0 20px #00ffe1, 0 0 30px #00ffe1, 0 0 40px #00ffe1;
+  }
+}
+</style>
 
 ---
 
-### ✨ Fun Facts
+### 👨‍💻 About Me
 
-- ☕ I can’t code without coffee  
-- 🎯 Always striving to learn something new  
-- 📱 Currently working on a chat app with sleek animations and modern UI  
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/abdelrahman-mostafa95)
+- 🎓 Former Mechanical Engineer who found passion in writing code.
+- 💼 Flutter Developer creating beautiful & functional mobile apps.
+- 🌱 Currently learning and building real-world projects using **Firebase**, **REST APIs**, and **State Management** (Provider, Bloc...etc).
+- 🧠 Believer in continuous learning & growth.
+- 📍 Based in Cairo, Egypt.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+### 🔨 Tech Stack
+
+- 💙 **Flutter & Dart**
+- 🔥 **Firebase** (Auth, Firestore, Storage)
+- 🌐 **REST APIs** integration
+- 🎨 UI/UX principles, theming & responsive layouts
+- 🧪 Testing & debugging mobile apps
+- 💾 Shared Preferences / Local storage
+
+---
+
+### 📱 Featured Projects
+
+- [📲 Islami App](https://github.com/abdelrhman-mostafa95/Islami_app) – Quran, Tasbih, Themes, SharedPreferences
+- [🗞 News App](https://github.com/abdelrhman-mostafa95/news_app) – Real-time news with API integration
+- [🛍 E-Commerce App](https://github.com/abdelrhman-mostafa95/e-commerce) – Smooth shopping experience with cart & categories
+- [📝 Todo App](https://github.com/abdelrhman-mostafa95/ToDo) – Firebase-based task manager
+
+---
+
+### 📫 Connect with me
+
+- 📧 abdelrhman.mostafa1095@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdel-rahman-mostafa-saad-21947a1a4/)  
+- 🐦 [Twitter (X)](https://twitter.com/Abdelrahman1095)
+
+---
+
+> "Code is not just what we do, it's how we solve real-world problems 🚀"
+
