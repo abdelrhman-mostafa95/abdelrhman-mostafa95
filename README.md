@@ -51,11 +51,10 @@
 
 ### 📱 Featured Projects
 
-- [📲 Islami App](https://github.com/abdelrhman-mostafa95/Islami_app) – Quran, Tasbih, Themes, SharedPreferences  
-- [🗞 News App](https://github.com/abdelrhman-mostafa95/news_app) – Real-time news with API integration  
-- [🛍 E-Commerce App](https://github.com/abdelrhman-mostafa95/e-commerce) – Smooth shopping experience with cart & categories  
-- [📝 Todo App](https://github.com/abdelrhman-mostafa95/ToDo) – Firebase-based task manager  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=Islami_app)](https://github.com/abdelrhman-mostafa95/Islami_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=news_app)](https://github.com/abdelrhman-mostafa95/news_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=e-commerce)](https://github.com/abdelrhman-mostafa95/e-commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=ToDo)](https://github.com/abdelrhman-mostafa95/ToDo)
 ---
 
 ### 📫 Connect with me
