@@ -51,10 +51,7 @@
 
 ### 📱 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=Islami_app)](https://github.com/abdelrhman-mostafa95/Islami_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=news_app)](https://github.com/abdelrhman-mostafa95/news_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=e-commerce)](https://github.com/abdelrhman-mostafa95/e-commerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95&repo=ToDo)](https://github.com/abdelrhman-mostafa95/ToDo)
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhman-mostafa95)](https://github.com/abdelrhman-mostafa95)
 ---
 
 ### 📫 Connect with me
