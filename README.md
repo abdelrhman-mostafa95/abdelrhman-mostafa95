@@ -13,7 +13,7 @@
 
 - 🎓 Graduate of **ITI – Frontend & Cross-Platform Track**.  
 - 💼 Developer creating **beautiful & functional web & mobile apps**.  
-- 🌱 Currently working with **React, React Native, Flutter, Firebase, REST APIs**, and modern **UI/UX design principles**.  
+- 🌱 Currently working with **React, React Native, Next.js, Flutter, Firebase, REST APIs**, and modern **UI/UX design principles**.  
 - 🧠 Believer in continuous learning & growth.  
 - 📍 Based in Cairo, Egypt.  
 
